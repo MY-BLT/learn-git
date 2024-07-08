@@ -1,0 +1,3 @@
+the first thing i have written in requirement file is the version of python that i used
+python 3.3.12
+
