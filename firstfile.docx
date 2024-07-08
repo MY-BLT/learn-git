@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 first line in the first file with the format docx
 in this file i will have some changes hello in the second line of firstfile.docx document in nano command service.
+=======
+the first line in the first file with the format docx
+in this file i will have some changes hello in the second line of firstfile.docx document in nano "this is a log or change" command service.
+>>>>>>> a966d3b7b86a1dc70c4e714662a9d586d06086ee
 finish 
 end.
