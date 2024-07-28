@@ -1,5 +1,4 @@
+# Learning github tutorial
+## Learning pull and push
 
-another line in cli 
-the attemp in github
-hello
-in cli in my system
+[Git learning in w3schools] (https://www.w3schools.com/git/)
