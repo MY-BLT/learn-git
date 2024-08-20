@@ -1,3 +1,5 @@
 the first line in brfile.txt
 
 the second line in brfile.docx
+
+the thirth line in brfile.txt
